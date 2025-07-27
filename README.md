@@ -1,7 +1,7 @@
 [WIP]
 This is a project for stabilizing video using OpenCV. I'm motivated by my own videos recorded from 2017-present that are high quality, but shaky as I never owned a gimbal.
 
-Digital video stabilization can be achieved for free in Davinci Resolve with the click of a button, but I find that it doesn't quite suite my needs.
+Digital video stabilization can be achieved for free in Davinci Resolve with the click of a button, but I find that it doesn't quite suite my needs. If I make it that far, I will consider creating a plugin for Davinci.
 
 Requirements:
 - Stabilization without cropping/zooming in
