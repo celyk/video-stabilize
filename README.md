@@ -11,3 +11,4 @@ This is ideal for me, as my footage is only 1080p and I don't want to sacrifice 
 
 For implementation, I think I will use OpenCV. It has these functions built in the [Video Stabilization](https://docs.opencv.org/4.x/d5/d50/group__videostab.html) module.
 
+I know that at this point there are AI models that can do this better, and upscale to 4k, but that can wait. I only want to make my videos watchable.
